@@ -1,0 +1,9 @@
+{
+    "key1": "valor1",
+    "key2": true,
+    "key3": null,
+    "key4": [
+        "valor",
+        123
+    ]
+}

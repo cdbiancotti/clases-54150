@@ -1,0 +1,8 @@
+setup.py
+paquete/__init__.py
+paquete/main.py
+paquete/pepe.py
+prueba.egg-info/PKG-INFO
+prueba.egg-info/SOURCES.txt
+prueba.egg-info/dependency_links.txt
+prueba.egg-info/top_level.txt
